@@ -16,3 +16,4 @@ gem "pry", "~> 0.12.2"
 
 gem "rbnacl", "~> 6.0", ">= 6.0.1"
 gem "bitcoin-secp256k1", "~> 0.5.0"
+gem "ckb-sdk-ruby"

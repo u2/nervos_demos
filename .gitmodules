@@ -1,0 +1,3 @@
+[submodule "ckb-sdk-ruby"]
+	path = ckb-sdk-ruby
+	url = git@github.com:nervosnetwork/ckb-sdk-ruby.git
